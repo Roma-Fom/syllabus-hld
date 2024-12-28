@@ -14,6 +14,7 @@ enum AttemptStatus {
             string appId
             string url
             string activeSecretId
+            string[] events
             number sendCount
             number failCount
             boolean isActive
