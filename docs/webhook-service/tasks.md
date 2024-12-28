@@ -31,8 +31,11 @@
 
 - [x] Implement the CreateAttempt RPC
 
-## Task 4: Implement sending scheduler
+## Task 4: Implement scheduler workflow
 
 - [x] Inittialize new NestJS microservice to handle workflows
 - [x] Implement the sending scheduler workflow and activities
-- [x] Implement send webhook workflow
+
+## Task 5: Implement send webhook workflow
+
+- [x] Implement the send webhook workflow and activities
